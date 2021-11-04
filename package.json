@@ -1,0 +1,16 @@
+{
+  "name": "botvdd",
+  "version": "1.0.0",
+  "description": "Um bot sendo feito",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Pani Kaz#8868",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "glob": "^7.2.0",
+    "util": "^0.12.4"
+  }
+}
